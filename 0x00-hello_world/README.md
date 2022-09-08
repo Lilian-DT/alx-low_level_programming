@@ -8,3 +8,5 @@
 3. Name
 4-puts.c
 4. Hello, puts
+5-printf.c
+Hello, printf
