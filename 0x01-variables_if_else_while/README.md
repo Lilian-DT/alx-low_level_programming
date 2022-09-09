@@ -4,4 +4,7 @@
 
 mandatory
 
-1-last_digit.c
+1-last_digit.
+2-print_alphabet.c
+sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
+
