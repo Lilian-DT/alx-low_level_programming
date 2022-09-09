@@ -1,44 +1,3 @@
-dd
-
-A:
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
 #include <stdio.h>
 /**
  * main - prints out all possible combos of 3 digits
@@ -75,12 +34,3 @@ putchar(' ');
 putchar('\n');
 return (0);
 }
-
-D
-B
-B
-B
-B
-B
-B
-
