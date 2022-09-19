@@ -5,6 +5,7 @@
  *
  * @s: This is the input string
  */
+ 
 void print_rev(char *s)
 {
 int index;
